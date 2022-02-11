@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, Iam Mushtaq Ahamed Shamil 👋
+
+Personal statement:
+
+A self-motivated and multitalented individual, seeking for a responsible position to gain practical experience in the field to make use of my skills and competencies to the fullest to achieve the goals of the company while strengthening my personal values.
 
 <!--
-**MushtaqCodeU/MushtaqCodeU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
