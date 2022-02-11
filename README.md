@@ -10,6 +10,8 @@ Tech Skills:
 •	Java, C#,ASP.NET
 •	MS SQL, MY SQL, Oracle Database 
 
+📫 How to reach me: mushtaqahamedshamil@gmail.com / linkedin.com/in/mushtaq-ahamed-shamil-b28abb220 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
