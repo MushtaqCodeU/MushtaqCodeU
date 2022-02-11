@@ -3,6 +3,7 @@
 I am a second year student in Software Engineering at NIBM , with interest in Software Development. I am interested in new technological trends in the industry in a competitive environment.
 
 Tech Skills:
+
 •	HTML 5
 •	CSS
 •	JavaScript
