@@ -1,8 +1,14 @@
 ### Hi there, Iam Mushtaq Ahamed Shamil 👋
 
-Personal statement:
+I am a second year student in Software Engineering at NIBM , with interest in Software Development. I am interested in new technological trends in the industry in a competitive environment.
 
-A self-motivated and multitalented individual, seeking for a responsible position to gain practical experience in the field to make use of my skills and competencies to the fullest to achieve the goals of the company while strengthening my personal values.
+Tech Skills:
+•	HTML 5
+•	CSS
+•	JavaScript
+•	Bootstrap
+•	Java, C#,ASP.NET
+•	MS SQL, MY SQL, Oracle Database 
 
 <!--
 - 🔭 I’m currently working on ...
