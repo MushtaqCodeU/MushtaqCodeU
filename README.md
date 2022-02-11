@@ -1,4 +1,4 @@
-### Hi there, Iam Mushtaq Ahamed Shamil 👋
+### Hi there, I am Mushtaq Ahamed Shamil 👋
 
 I am a second year student in Software Engineering at NIBM , with interest in Software Development. I am interested in new technological trends in the industry in a competitive environment.
 
