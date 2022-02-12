@@ -24,7 +24,7 @@ I am a second year student in Software Engineering at NIBM , with interest in So
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqcodeu&show_icons=true&locale=en&layout=compact" alt="mushtaqcodeu" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushtaqcodeu&show_icons=true&locale=en" alt="mushtaqcodeu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqcodeu&" alt="mushtaqcodeu" /></p>
