@@ -4,7 +4,7 @@
 
 I am a second year student in Software Engineering at NIBM , with interest in Software Development. I am interested in new technological trends in the industry in a competitive environment.
 
-📝 Software Engineer Undergraduate
+📝 Software Engineer Undergraduate. <br>
 📫 How to reach me **mushtaqahamedshamil@gmail.com**
 
 
