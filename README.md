@@ -22,14 +22,6 @@ I am a second year student in Software Engineering at NIBM , with interest in So
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushtaqcodeu&label=Profile%20views&color=0e75b6&style=flat" alt="mushtaqcodeu"  /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushtaqcodeu" alt="mushtaqcodeu" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqcodeu&show_icons=true&locale=en&layout=compact" alt="mushtaqcodeu" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqcodeu&" alt="mushtaqcodeu" /></p>
-
 
 
 <!--
