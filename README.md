@@ -37,6 +37,7 @@ Tech Skills:
 •	JavaScript
 •	Bootstrap
 •	Java, C#,ASP.NET
+• Selenium, TestNG ,UFT
 •	MS SQL, MY SQL, Oracle Database 
 
 📫 How to reach me: mushtaqahamedshamil@gmail.com /  linkedin.com/in/mushtaq-ahamed-shamil-b28abb220 
