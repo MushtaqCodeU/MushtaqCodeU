@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mushtaq Ahamed Shamil</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate QA Tester from Sri Lanka</h3>
 
 I am a second year student in Software Engineering at NIBM , with interest in Software Development. I am interested in new technological trends in the industry in a competitive environment.
 
