@@ -4,7 +4,6 @@
 
 I am a Software QA Engineering, with interest in Software Development and Testing. I am interested in new technological trends in the industry in a competitive environment.
 
-📝 Software Engineer Undergraduate. <br>
 📫 How to reach me **mushtaqahamedshamil@gmail.com**
 
 
