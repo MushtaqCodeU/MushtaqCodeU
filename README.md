@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mushtaq Ahamed Shamil</h1>
 <h3 align="center">A passionate QA Tester from Sri Lanka</h3>
 
-I am a Software QA Engineering, with interest in Software Development and Testing. I am interested in new technological trends in the industry in a competitive environment.
+I am a Software QA Engineer , with interest in Software Development and Testing. I am interested in new technological trends in the industry in a competitive environment.
 
 📫 How to reach me **mushtaqahamedshamil@gmail.com**
 
